@@ -34,7 +34,7 @@ Para usar en el disco local, se debe descargar la carpeta y usar alguna de las s
 
 ## ¿Cómo colaborar con el proyecto ? 
 
-<p style="color:blue;">Ayúdame difundiendo, envíame más ejemplos para hacer diferentes tests. Encuentra errores y reportalos en un issue en github.</p>
+<h3 style="color:blue;">Ayúdame difundiendo, envíame más ejemplos para hacer diferentes tests. Encuentra errores y reportalos en un issue en github.</h3>
 > Contáctanos
 1. Ana Mantilla: email@email
 2. Paul Goyes:   email@email
