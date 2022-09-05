@@ -4,6 +4,9 @@ Created on Sun Sep  4 20:38:19 2022
 
 @author: Paul Goyes (goyes.yesid@gmail.com) y Ana Mantilla (anagmd2019@gmail.com)
 """
+
+import numpy as np
+
 def az2carto(azi):
   '''
   az2carto: Función para convertir azimut en coordenadas cartesianas medidas desde el eje x
