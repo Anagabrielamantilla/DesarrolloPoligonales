@@ -13,9 +13,12 @@ out =  az2carto(azi)
 ```
  
 ## Ejemplo en colab 
+
+En este colab está un ejemplo completo del uso de las funciones, y el proceso automático para aplicarlas en un archivo de excel.
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1xms3EEhLpyYVl7YiIcuiTqt-IsWStdxS#scrollTo=ZwSqdcHlWbe9)
 
 
+###### Exportar el resultado a un excel 
 Este es un ejemplo para guardar el archivo csv con la poligonal desarrollada
 > Aumentar la velocidad de los procesos 
 
@@ -23,4 +26,15 @@ Este es un ejemplo para guardar el archivo csv con la poligonal desarrollada
 <img src="https://github.com/Anagabrielamantilla/DesarrolloPoligonales/blob/main/Captura%20de%20pantalla%202022-09-04%20212911.jpg" width="400">
 </p>
 
+## Usarlo en el disco local
 
+Para usar en el disco local, se debe descargar la carpeta y usar alguna de las siguientes opciones:
+- Para los usuarios de Jupyter-notebook: Usar el ejemplo presentado en el archivo <b>poligonal.ipynb</b>. 
+- Para los usuarios de spyder u otro IDE:  Usar el ejemplo presentado en el archivo <b>poligonal.py</b>. 
+
+## ¿Cómo colaborar con el proyecto ? 
+
+<p style="color:blue;">Ayúdame difundiendo, envíame más ejemplos para hacer diferentes tests. Encuentra errores y reportalos en un issue en github.</p>
+> Contáctanos
+1. Ana Mantilla: email@email
+2. Paul Goyes:   email@email
