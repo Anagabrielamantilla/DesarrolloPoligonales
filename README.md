@@ -8,5 +8,5 @@ Cálculo del espesor real de las capas mediante el método de poligonales usando
 
 Este es un ejemplo para guardar el archivo csv con la poligonal desarrollada
 
-![ScreenShot](https://github.com/Anagabrielamantilla/DesarrolloPoligonales/blob/main/Captura%20de%20pantalla%202022-09-04%20212911.jpg | width=100)
+![ScreenShot](https://github.com/Anagabrielamantilla/DesarrolloPoligonales/blob/main/Captura%20de%20pantalla%202022-09-04%20212911.jpg | width=100px)
 
