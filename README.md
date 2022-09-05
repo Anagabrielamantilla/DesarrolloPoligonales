@@ -1,15 +1,18 @@
-# Desarrollo Poligonales
+# Cálculo del espesor real de las capas mediante el método de poligonales usando Python
 Cálculo del espesor real de las capas mediante el método de poligonales usando Python
 
-# The largest heading
-## The second largest heading
-###### The smallest heading
+## Descripción del repositorio
+
+
+###### Funciones creadas
+
+- az2carto(azi): donde el argumento de entrada <b>azi</b> es el ángulo en azimut. (en grados, 0 - 360)
 
 ```
-def az2carto(azi):
-  write here
+out =  az2carto(azi)
 ```
-  
+ 
+## Ejemplo en colab 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1xms3EEhLpyYVl7YiIcuiTqt-IsWStdxS#scrollTo=ZwSqdcHlWbe9)
 
 
