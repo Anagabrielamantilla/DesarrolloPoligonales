@@ -38,5 +38,5 @@ Ayúdame difundiendo, envíame más ejemplos para hacer diferentes tests. Encuen
 
 > Contáctanos
 
-1. Ana Mantilla: email@email
-2. Paul Goyes:   email@email
+1. Ana Mantilla: anagmd2019@gmail.com
+2. Paul Goyes:   goyes.yesid@gmail.com [![Linkedin](https://cdn-icons-png.flaticon.com/512/174/174857.png)](https://colab.research.google.com/drive/1xms3EEhLpyYVl7YiIcuiTqt-IsWStdxS#scrollTo=ZwSqdcHlWbe9)
