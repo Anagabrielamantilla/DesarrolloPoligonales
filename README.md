@@ -39,4 +39,4 @@ Ayúdame difundiendo, envíame más ejemplos para hacer diferentes tests. Encuen
 > Contáctanos
 
 1. Ana Mantilla: anagmd2019@gmail.com
-2. Paul Goyes:   goyes.yesid@gmail.com <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="100">
+2. Paul Goyes:   goyes.yesid@gmail.com <a href="https://www.qries.com/">  <img alt="Qries" src="https://cdn-icons-png.flaticon.com/512/174/174857.png"  width=150" height="70">
