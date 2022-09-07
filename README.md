@@ -31,16 +31,26 @@ out =  az2carto(azi)
 ```
 out =  cal_thick(L,I,a,b,f)
 ```
-Las variables están definidas de la siguiente forma:
+Las variables de entrada están definidas de la siguiente forma:
 
 ```
 I=I*np.pi/180
 a=az2carto(a)*np.pi/180
 b=az2carto(b)*np.pi/180
 f=az2carto(f)*np.pi/180
+```
+El cálculo de las variables aparentes está dado por:
 
 ```
+omega=np.arctan(np.tan(I)*np.sin(abs(a-f)))*180/np.pi #ángulo de dirección aparente
+E=np.sin(omega*np.pi/180)*L #espesor aparente
+```
+El cálculo de las variables reales está dado por:
 
+```
+L2=abs(np.cos((f-b))*L) #longitud proyectada en la misma dirección del buzamiento
+E2=np.sin(I)*L2 #espesor real
+```
 
 ## Ejemplo en colab 
 
