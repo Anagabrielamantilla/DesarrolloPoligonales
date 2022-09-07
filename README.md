@@ -54,7 +54,7 @@ E2=np.sin(I)*L2 #espesor real
 
 ## Ejemplo en colab 
 
-En este Colab está un ejemplo completo del uso de las funciones y el proceso automático para aplicarlas en un archivo de excel.
+En este Colab está un ejemplo completo del uso de las funciones y el proceso automático para aplicarlas en un archivo de excel. Para abrirlo de click en el siguiente ícono: 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1xms3EEhLpyYVl7YiIcuiTqt-IsWStdxS#scrollTo=ZwSqdcHlWbe9)
 
 El espesor real puede ser calculado ingresando los datos tomados en campo segmento por segmento, así como se muestra en la primera parte del código. Pero, también mediante el uso de la función <b>cal_thick</b> que calcula los espesores de manera automática para todos los segmentos ingresados en la tabla excel. Para esto se recomienda nombrar las variables de la misma forma que se encuentra en el Colab. 
@@ -62,10 +62,8 @@ El espesor real puede ser calculado ingresando los datos tomados en campo segmen
 ###### Exportar el resultado a un excel 
 Los espesores reales de todos los segmentos se guardan automáticamente en una nueva columna denominada <b>espesor</b>. El archivo resultante puede ser exportado nuevamente en un archivo csv, el cual puede visualizarse en excel con todos los datos de la poligonal desarrollada. El archivo exportado podrá descargarse desplegando el panel izquierdo donde se visualizará una carpeta llamada <b>DesarrolloPoligonales</b> y dentro de la cual se encontrará el archivo que contiene los espesores reales con extensión .csv
 
-> Aumentar la velocidad de los procesos 
-
 <p align="center">
-<img src="https://github.com/Anagabrielamantilla/DesarrolloPoligonales/blob/main/Captura%20de%20pantalla%202022-09-04%20212911.jpg" width="400">
+<img src="https://github.com/Anagabrielamantilla/DesarrolloPoligonales/blob/main/Img2.jpg" width="400">
 </p>
 
 ## Usarlo en el disco local
