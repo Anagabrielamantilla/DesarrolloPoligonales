@@ -1,9 +1,9 @@
 # Cálculo del espesor real de las capas mediante el método de poligonales usando Python
 
 ## Descripción del repositorio
-Este es un código de Python que resuelve el cálculo del espesor real de las capas estratigráficas mediante el uso de ecuaciones matemáticas que representan relaciones trigonométricas entre los datos tomados en campo. 
+Este es un código de Python que resuelve el cálculo del espesor real de las capas estratigráficas mediante el uso de funciones matemáticas que representan relaciones trigonométricas entre los datos tomados en campo. 
 
-Datos de entrada: 
+# Datos de entrada: 
 
 - DistSegmento: Distancia de la vía o el segmento A-B 
 - Azi_Segmento: Azimut segmento A-B
@@ -12,8 +12,12 @@ Datos de entrada:
 - Az_buz_bedding: Azimut de buzamiento de las capas
 - dip_bedding: Buzamiento de las capas
 
-Datos de salida:
+# Datos de salida:
 - espesor: Columna donde se guardan los espesores reales calculados
+
+<p align="center">
+<img src="https://github.com/Anagabrielamantilla/DesarrolloPoligonales/blob/main/Img1.png" width="400">
+</p>
 
 ###### Funciones creadas
 
