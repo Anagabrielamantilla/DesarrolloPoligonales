@@ -31,6 +31,16 @@ out =  az2carto(azi)
 ```
 out =  cal_thick(L,I,a,b,f)
 ```
+Las variables están definidas de la siguiente forma:
+
+```
+I=I*np.pi/180
+a=az2carto(a)*np.pi/180
+b=az2carto(b)*np.pi/180
+f=az2carto(f)*np.pi/180
+
+```
+
 
 ## Ejemplo en colab 
 
