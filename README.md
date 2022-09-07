@@ -21,12 +21,17 @@ Este es un código de Python que resuelve el cálculo del espesor real de las ca
 
 ###### Funciones creadas
 
-- az2carto(azi): donde el argumento de entrada <b>azi</b> es el ángulo en azimut. (en grados, 0 - 360. Esta es una función que convierte los datos de azimut del rumbo en ángulos euclidianos
+- az2carto(azi): donde el argumento de entrada <b>azi</b> es el ángulo en azimut. (en grados, 0 - 360). Esta es una función que convierte los datos de azimut del rumbo en ángulos euclidianos
 
 ```
 out =  az2carto(azi)
 ```
- 
+- cal_thick(L,I,a,b,f): donde los argumentos de entrada son L (longitud de la vía), I (buzamiento de la capa), a (azimut de rumbo de las capas), b (azimut de buzamiento de las capas), f (azimut de rumbo del segmento)
+
+```
+out =  cal_thick(L,I,a,b,f)
+```
+
 ## Ejemplo en colab 
 
 En este colab está un ejemplo completo del uso de las funciones, y el proceso automático para aplicarlas en un archivo de excel.
