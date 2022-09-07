@@ -16,7 +16,7 @@ Este es un código de Python que resuelve el cálculo del espesor real de las ca
 - espesor: Columna donde se guardan los espesores reales calculados
 
 <p align="center">
-<img src="https://github.com/Anagabrielamantilla/DesarrolloPoligonales/blob/main/Img1.png" width="400">
+<img src="https://github.com/Anagabrielamantilla/DesarrolloPoligonales/blob/main/Img1.png" width="800">
 </p>
 
 ###### Funciones creadas
