@@ -5,7 +5,7 @@ Este es un código de Python que resuelve el cálculo del espesor real de las ca
 
 # Datos de entrada: 
 
-- DistSegmento: Distancia de la vía o el segmento A-B 
+- DistSegmento: Longitud del segmento A-B 
 - Azi_Segmento: Azimut segmento A-B
 - Dip_Segmento: Inclinación segmento A-B
 - Az_rumbo_bedding: Azimut de rumbo de las capas 
@@ -26,7 +26,7 @@ Este es un código de Python que resuelve el cálculo del espesor real de las ca
 ```
 out =  az2carto(azi)
 ```
-- cal_thick(L,I,a,b,f): donde los argumentos de entrada son <b>L</b> (longitud de la vía), <b>I</b> (buzamiento de la capa), <b>a</b> (azimut de rumbo de las capas), <b>b</b> (azimut de buzamiento de las capas), <b>f</b> (azimut de rumbo del segmento)
+- cal_thick(L,I,a,b,f): donde los argumentos de entrada son <b>L</b> (longitud del segmento), <b>I</b> (buzamiento de la capa), <b>a</b> (azimut de rumbo de las capas), <b>b</b> (azimut de buzamiento de las capas), <b>f</b> (azimut de rumbo del segmento)
 
 ```
 out =  cal_thick(L,I,a,b,f)
