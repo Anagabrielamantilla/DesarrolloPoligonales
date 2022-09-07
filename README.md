@@ -5,19 +5,19 @@ Este es un código de Python que resuelve el cálculo del espesor real de las ca
 
 Datos de entrada: 
 
-DistSegmento: Distancia de la vía o el segmento A-B 
-Azi_Segmento: Azimut segmento A-B
-Dip_Segmento: Inclinación segmento A-B
-Az_rumbo_bedding: Azimut de rumbo de las capas 
-Az_buz_bedding: Azimut de buzamiento de las capas
-dip_bedding: Buzamiento de las capas
+- DistSegmento: Distancia de la vía o el segmento A-B 
+- Azi_Segmento: Azimut segmento A-B
+- Dip_Segmento: Inclinación segmento A-B
+- Az_rumbo_bedding: Azimut de rumbo de las capas 
+- Az_buz_bedding: Azimut de buzamiento de las capas
+- dip_bedding: Buzamiento de las capas
 
 Datos de salida:
-espesor: Columna donde se guardan los espesores reales calculados
+- espesor: Columna donde se guardan los espesores reales calculados
 
 ###### Funciones creadas
 
-- az2carto(azi): donde el argumento de entrada <b>azi</b> es el ángulo en azimut. (en grados, 0 - 360)
+- az2carto(azi): donde el argumento de entrada <b>azi</b> es el ángulo en azimut. (en grados, 0 - 360. Esta es una función que convierte los datos de azimut del rumbo en ángulos euclidianos
 
 ```
 out =  az2carto(azi)
