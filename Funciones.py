@@ -10,6 +10,9 @@ import numpy as np
 def az2carto(azi):
   '''
   az2carto: Función para convertir azimut en coordenadas cartesianas medidas desde el eje x
+  
+  Input
+  azi:float #ángulo en azimut del rumbo
   '''
   return -azi + 90
 
