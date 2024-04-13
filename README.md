@@ -13,7 +13,7 @@ Este es un código de Python que resuelve el cálculo del espesor real de las ca
 - dip_bedding: Buzamiento de las capas
 
 # Datos de salida:
-- espesor: Columna donde se guardan los espesores reales calculados
+- espesor: Columna donde se guardan los espesores reales calculados en metros
 
 <p align="center">
 <img src="https://github.com/Anagabrielamantilla/DesarrolloPoligonales/blob/main/Img0.png" width="800">
