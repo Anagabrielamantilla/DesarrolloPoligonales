@@ -90,3 +90,8 @@ Ana Mantilla: anagmd2019@gmail.com </br> <a href="https://www.linkedin.com/in/an
 Paul Goyes:   goyes.yesid@gmail.com </br> <a href="https://www.linkedin.com/in/paul-goyes-0212b810/">
   <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="HTML tutorial" style="width:30px;height:30px;">
 </a>
+
+## ¿Cómo citar? 
+
+Mantilla, A y Goyes, P (2024). Anagabrielamantilla/DesarrolloPoligonales: DesarrolloPoligonales (poligonales). Zenodo.
+https://doi.org/10.5281/zenodo.10995259
